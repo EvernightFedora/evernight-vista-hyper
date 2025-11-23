@@ -1,0 +1,13 @@
+{ "name": "com.idreamsky.klbqm.bilibili", "type": "Game" }
+
+{ "name": "com.idreamsky.klbqm", "type": "Game" }
+
+{ "name": "com.miHoYo.hkrpg.bilibili", "type": "Game" }
+
+{ "name": "com.miHoYo.hkrpg", "type": "Game" }
+
+{ "name": "geekbench6", "type": "Heavy_CPU" }
+
+{ "name": "geekbench_x86_64", "type": "Heavy_CPU" }
+
+{ "name": "geekbench_avx2", "type": "Heavy_CPU" }
